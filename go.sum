@@ -1,0 +1,6 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/isaqueveras/leaf v1.1.3 h1:6KHFrCj08dXSiRh1gwhOmQS+Iff3laO7ISP5fM8FoTU=
+github.com/isaqueveras/leaf v1.1.3/go.mod h1:7khFApJuSnKRgAvxTMMFdI9p5qHmczC3g1xiYOxnhtc=
+github.com/isaqueveras/venustre v1.3.4 h1:eZlXUyu6nh5losHLQdoIxFADRBaZEauEyzRJbOxMKXQ=
+github.com/isaqueveras/venustre v1.3.4/go.mod h1:7+Pa+XrA3W/8MeoXYdojpSEZQmPgp3xV4iviezolQ4Y=
